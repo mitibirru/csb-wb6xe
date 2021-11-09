@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mitibirru.github.io/csb-wb6xe/static/css/main.81ee0c95.chunk.css",
+    "main.js": "https://mitibirru.github.io/csb-wb6xe/static/js/main.3da60f1b.chunk.js",
+    "main.js.map": "https://mitibirru.github.io/csb-wb6xe/static/js/main.3da60f1b.chunk.js.map",
+    "runtime-main.js": "https://mitibirru.github.io/csb-wb6xe/static/js/runtime-main.de0b1fdd.js",
+    "runtime-main.js.map": "https://mitibirru.github.io/csb-wb6xe/static/js/runtime-main.de0b1fdd.js.map",
+    "static/js/2.a6133a24.chunk.js": "https://mitibirru.github.io/csb-wb6xe/static/js/2.a6133a24.chunk.js",
+    "static/js/2.a6133a24.chunk.js.map": "https://mitibirru.github.io/csb-wb6xe/static/js/2.a6133a24.chunk.js.map",
+    "index.html": "https://mitibirru.github.io/csb-wb6xe/index.html",
+    "static/css/main.81ee0c95.chunk.css.map": "https://mitibirru.github.io/csb-wb6xe/static/css/main.81ee0c95.chunk.css.map",
+    "static/js/2.a6133a24.chunk.js.LICENSE.txt": "https://mitibirru.github.io/csb-wb6xe/static/js/2.a6133a24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de0b1fdd.js",
+    "static/js/2.a6133a24.chunk.js",
+    "static/css/main.81ee0c95.chunk.css",
+    "static/js/main.3da60f1b.chunk.js"
+  ]
+}
